@@ -1,0 +1,504 @@
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+    .banner-text {
+        padding-top: 125px;
+    }
+    .banner-text h3 {
+        font-size: 15px;
+    }
+    .banner-text h1 {
+        font-size: 60px;
+        padding: 0 50px;
+    }
+    .banner-btn a {
+        font-size: 10px;
+        padding: 8px 27px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-brand {
+        padding-top: 10px;
+    }
+    .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        line-height: 30px;
+        text-align: center;
+    }
+    .banner-text {
+        padding-top: 95px;
+    }
+    .banner-text h3 {
+        font-size: 15px;
+    }
+    .banner-text h1 {
+        font-size: 60px;
+        padding: 0 50px;
+    }
+    .banner-btn a {
+        font-size: 10px;
+        padding: 8px 27px;
+    }
+    .prev {
+        left: -30px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .next {
+        right: 30px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .heading h3 {
+        font-size: 30px;
+    }
+    .about-text p {
+        margin-bottom: 0;
+    }
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .service-item {
+        padding: 30px 30px;
+        text-align: center;
+    }
+
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .heading h5 {
+        text-align: center;
+    }
+    .heading h3 {
+        text-align: center;
+    }
+    .nav-tabs .nav-link {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .nav {
+        padding-left: 10px;
+        margin-bottom: 20px;
+    }
+    .nav-link {
+        padding: 0 7px;
+    }
+    .work-overlay h6 {
+        padding-top: 44px;
+    }
+    #news {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .team-overlay p {
+        padding-top: 150px;
+    }
+    #about2 {
+        padding-bottom: 60px;
+    }
+    .team-overlay p {
+        padding-top: 230px;
+    }
+    .about2-text h5 {
+        padding-top: 50px;
+    }
+    .recent-post h4 {
+        padding-top: 30px;
+    }
+    .sub-btn input {
+        width: 172px;;
+    }
+    .sub-btn button {
+        bottom: 0px;
+        right: 121px;
+    }
+    .copy-text p {
+        text-align: center;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-brand {
+        padding-top: 10px;
+    }
+    .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        line-height: 30px;
+        text-align: center;
+    }
+    .banner-text {
+        padding-top: 15px;
+    }
+    .banner-text {
+        padding-top: 70px;
+    }
+    .banner-text h3 {
+        font-size: 15px;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+        padding: 0 50px;
+    }
+    .banner-btn a {
+        font-size: 10px;
+        padding: 8px 27px;
+    }
+    .prev {
+        left: -30px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .next {
+        right: 30px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .heading h3 {
+        font-size: 30px;
+    }
+    .about-text p {
+        margin-bottom: 0;
+    }
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .service-item {
+        padding: 30px 30px;
+        text-align: center;
+    }
+
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .heading h5 {
+        text-align: center;
+    }
+    .heading h3 {
+        text-align: center;
+    }
+    .nav-tabs .nav-link {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .nav {
+        padding-left: 10px;
+        margin-bottom: 20px;
+    }
+    .nav-link {
+        padding: 0 7px;
+    }
+    .work-overlay h6 {
+        padding-top: 44px;
+    }
+    #news {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .team-overlay p {
+        padding-top: 150px;
+    }
+    #about2 {
+        padding-bottom: 60px;
+    }
+    .team-overlay p {
+        padding-top: 230px;
+    }
+    .about2-text h5 {
+        padding-top: 50px;
+    }
+    .recent-post h4 {
+        padding-top: 30px;
+    }
+    .sub-btn input {
+        width: 172px;;
+    }
+    .sub-btn button {
+        bottom: 0px;
+        right: 33px;
+    }
+    .copy-text p {
+        text-align: center;
+    }
+}
+@media (min-width: 401px) and (max-width: 576px){
+    .navbar-brand {
+        padding-top: 10px;
+    }
+    .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        line-height: 30px;
+        text-align: center;
+    }
+    .banner-text {
+        padding-top: 55px;
+    }
+    .sub-btn button {
+        bottom: 0px;
+        right: 145px;
+    }
+    .banner-text h3 {
+        font-size: 15px;
+    }
+    .banner-text h1 {
+        font-size: 24px;
+    }
+    .banner-btn a {
+        font-size: 10px;
+        padding: 8px 27px;
+    }
+    .prev {
+        left: -30px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .next {
+        right: 30px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .banner-btn {
+        padding-top: 0px;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .heading h3 {
+        font-size: 30px;
+    }
+    .about-text p {
+        margin-bottom: 0;
+    }
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .service-item {
+        padding: 30px 30px;
+        text-align: center;
+    }
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .heading h5 {
+        text-align: center;
+    }
+    .heading h3 {
+        text-align: center;
+    }
+    .nav-tabs .nav-link {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .nav {
+        padding-left: 10px;
+        margin-bottom: 20px;
+    }
+    .nav-link {
+        padding: 0 7px;
+    }
+    #news {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #about2 {
+        padding-bottom: 60px;
+    }
+    .team-overlay p {
+        padding-top: 230px;
+    }
+    .about2-text h5 {
+        padding-top: 50px;
+    }
+    .about2-text h3 {
+        font-size: 23px;
+    }
+    #client {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .clint-item {
+        padding-top: 15px;
+    }
+
+    #news {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .recent-post h4 {
+        padding-top: 30px;
+    }
+    .sub-btn button {
+        bottom: 0px;
+        right: 35px;
+    }
+    .copy-text p {
+        margin-left: 15px;
+    }
+    .copy-menu ul li a { 
+        padding: 0px 3px;
+    }
+    .sub-btn input {
+        width: 170px;
+    }
+}
+@media (max-width: 400px) {
+    .navbar-brand {
+        padding-top: 10px;
+    }
+    .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        line-height: 30px;
+        text-align: center;
+    }
+    .banner-text {
+        padding-top: 30px;
+    }
+    .banner-text h3 {
+        font-size: 15px;
+    }
+    .banner-text h1 {
+        font-size: 17px;
+    }
+    .banner-btn a {
+        font-size: 10px;
+        padding: 8px 27px;
+    }
+    .prev {
+        left: -30px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .next {
+        right: 30px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .heading h3 {
+        font-size: 30px;
+    }
+    .about-text p {
+        margin-bottom: 0;
+    }
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .service-item {
+        padding: 30px 30px;
+        text-align: center;
+    }
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .heading h5 {
+        text-align: center;
+    }
+    .heading h3 {
+        text-align: center;
+    }
+    .nav-tabs .nav-link {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .nav {
+        padding-left: 10px;
+        margin-bottom: 20px;
+    }
+    .nav-link {
+        padding: 0 7px;
+    }
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #about2 {
+        padding-bottom: 60px;
+    }
+    .team-overlay p {
+        padding-top: 230px;
+    }
+    .about2-text h5 {
+        padding-top: 50px;
+    }
+    .about2-text h3 {
+        font-size: 23px;
+    }
+    #client {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .clint-item {
+        padding-top: 15px;
+    }
+
+    #news {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .recent-post h4 {
+        padding-top: 30px;
+    }
+    .sub-btn button {
+        bottom: 0px;
+        right: 75px;
+    }
+    .copy-text p {
+        margin-left: 15px;
+    }
+    .copy-menu ul li a { 
+        padding: 0px 3px;
+    }
+}
